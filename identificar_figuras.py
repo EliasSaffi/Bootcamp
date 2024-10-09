@@ -1,4 +1,3 @@
-#        >>> Elias Kalil Maniá Saffi - 4200987 <<<
 
 import cv2
 import numpy as np
